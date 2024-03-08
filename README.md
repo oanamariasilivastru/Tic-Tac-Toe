@@ -20,10 +20,6 @@ python Tic_Tac_Toe.py
 <p align="center">
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/tictactoe.gif" width=70% height=70%>
 
-## 🤖 Author
-[Leah Nguyen](https://github.com/ndleah)
-
-
 ## 📝 Acknowledgments
 - [Python](https://www.python.org/)
 - [VS Code](https://code.visualstudio.com/)
